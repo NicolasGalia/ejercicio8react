@@ -1,0 +1,7 @@
+.tituloFormulario{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(127, 72, 255);
+    padding: 40px;
+};
+
